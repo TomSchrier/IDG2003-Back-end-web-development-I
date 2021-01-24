@@ -1,0 +1,28 @@
+Student number;First name;Last name;Birthdate;Course code;Course name;Course year;Course semester;Instructor name;Number of credits;Grade
+1;Millian;Andersen;876787200;IDG1292;Web Coding;2019;Fall;Carlos Vicient Monllao;7;D
+1;Millian;Andersen;876787200;IDG1011;Front-End Web development;2020;Spring;Oivind Kolloen;10;E
+2;Elida;Lund;881625600;IDG1292;Web Coding;2019;Fall;Carlos Vicient Monllao;7;C
+2;Elida;Lund;881625600;IDG1011;Front-End Web development;2020;Spring;Oivind Kolloen;10;E
+3;Sara;Holt;818035200;IDG1292;Web Coding;2019;Fall;Carlos Vicient Monllao;7;C
+3;Sara;Holt;818035200;IDG1011;Front-End Web development;2020;Spring;Oivind Kolloen;10;D
+4;Mohamed;Abboud;960076800;EXPH0100;Examen philosophicum for Humanities and Aesthetics Disciplines;2020;Spring;Ingmar Meland;5;A
+4;Mohamed;Abboud;960076800;IDG1100;Basic Web Development;2019;Fall;Kjell Are Refsvik;7;F
+4;Mohamed;Abboud;960076800;IDG1362;Design Thinking;2019;Fall;Kjell Are Refsvik;10;B
+5;Malin;Hansen;916272000;EXPH0100;Examen philosophicum for Humanities and Aesthetics Disciplines;2020;Spring;Ingmar Meland;5;C
+5;Malin;Hansen;916272000;IDG1100;Basic Web Development;2019;Fall;Kjell Are Refsvik;7;D
+5;Malin;Hansen;916272000;IDG1362;Design Thinking;2019;Fall;Kjell Are Refsvik;10;B
+6;Eirik;Hovde;926726400;EXPH0100;Examen philosophicum for Humanities and Aesthetics Disciplines;2020;Spring;Ingmar Meland;5;A
+6;Eirik;Hovde;926726400;IDG1100;Basic Web Development;2019;Fall;Kjell Are Refsvik;7;A
+6;Eirik;Hovde;926726400;IDG1362;Design Thinking;2019;Fall;Kjell Are Refsvik;10;C
+7;Ylva;Guddal;986256000;IDG2200;Design and Prototyping for Smart Phone and Tablets;2020;Spring;Sebastian Brage Hansen;7;B
+7;Ylva;Guddal;986256000;IDG1292;Web Coding;2019;Fall;Carlos Vicient Monllao;7;B
+8;Amira;Haugland;784080000;IDG2200;Design and Prototyping for Smart Phone and Tablets;2020;Spring;Sebastian Brage Hansen;7;E
+8;Amira;Haugland;784080000;IDG1292;Web Coding;2019;Fall;Carlos Vicient Monllao;7;F
+8;Amira;Haugland;784080000;IDG1100;Basic Web Development;2019;Fall;Kjell Are Refsvik;7;B
+8;Amira;Haugland;784080000;EXPH0100;Examen philosophicum for Humanities and Aesthetics Disciplines;2020;Spring;Ingmar Meland;5;C
+9;Nora;Horten;796003200;IDG2200;Design and Prototyping for Smart Phone and Tablets;2020;Spring;Sebastian Brage Hansen;7;B
+9;Nora;Horten;796003200;IDG1292;Web Coding;2019;Fall;Carlos Vicient Monllao;7;B
+9;Nora;Horten;796003200;IDG1100;Basic Web Development;2019;Fall;Kjell Are Refsvik;7;C
+10;Kristian;Karlsen;880243200;IDG2200;Design and Prototyping for Smart Phone and Tablets;2020;Spring;Sebastian Brage Hansen;7;C
+10;Kristian;Karlsen;880243200;IDG1292;Web Coding;2019;Fall;Carlos Vicient Monllao;7;A
+11;Almar;Goudsmit;931003200;IDG1100;Basic Web Development;2019;Fall;Kjell Are Refsvik;7;A
